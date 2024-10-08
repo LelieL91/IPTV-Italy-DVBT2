@@ -15,6 +15,7 @@
 <h3 align="center">Transponder italiani DVB-T2</h3>
 
 ---
+
 ### Come effettuare la scansione dei transponder?
 #### Prerequisiti:
 - Ambiente linux e accesso al terminale
@@ -22,4 +23,22 @@
 -
 
 ---
+
+### Lista Canali HbbTV
+
+N° Canale - Nome Canale - Tipo Digitale Terrestre
+
+21. Rai 4 (DVB-T1)
+23. Ray 5 HD (DVB-T2)
+24. Raim Movie HD (DVB-T2)
+42. Rai Gulp HD (DVB-T2)
+43. Rai YoYo HD
+101. Ray 4K (DVB-T1)
+201. Ray Play (DVB-T2)
+203. Ray Play Sound (DVB-T2)
+554. Rai Storia HD (DVB-T1)
+558. Rai Sport HD (DVB-T2)
+
+---
+
 ### Si ringrazia [![](https://img.shields.io/badge/stefantalpalaru-%23121011.svg?style=for-the-badge?style=flat-square&logo=github&logoColor=white)](https://github.com/stefantalpalaru) per il tool [![](https://img.shields.io/badge/w_scan2-%23121011.svg?style=for-the-badge?style=flat-square&logo=github&logoColor=white)](https://github.com/stefantalpalaru/w_scan2) utilizzato in questa repository.
