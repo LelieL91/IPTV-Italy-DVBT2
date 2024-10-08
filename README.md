@@ -27,16 +27,16 @@
 ---
 <h2>Lista Canali</h2>
 
-21. Rai 4 (DVB-T1)
-23. Ray 5 HD (DVB-T2)
-24. Raim Movie HD (DVB-T2)
-42. Rai Gulp HD (DVB-T2)
-43. Rai YoYo HD
-101. Ray 4K (DVB-T1)
-201. Ray Play (DVB-T2)
-203. Ray Play Sound (DVB-T2)
-554. Rai Storia HD (DVB-T1)
-558. Rai Sport HD (DVB-T2)
+21\. Rai 4 (DVB-T1)\
+23\. Ray 5 HD (DVB-T2)\
+25\. Raim Movie HD (DVB-T2)\
+42\. Rai Gulp HD (DVB-T2)\
+43\. Rai YoYo HD (DVB-T1)\
+101\. Ray 4K (DVB-T1)\
+201\. Ray Play (DVB-T2)\
+203\. Ray Play Sound (DVB-T2)\
+554\. Rai Storia HD (DVB-T1)\
+558\. Rai Sport HD (DVB-T2)
 
 ---
 
