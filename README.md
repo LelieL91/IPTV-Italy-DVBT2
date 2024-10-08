@@ -10,11 +10,13 @@
   <a href="https://discord.gg/6hwgFZaVuT">
     <img src="https://img.shields.io/discord/726791153483120680?logo=discord&logoColor=white"
       alt="Chat on Discord"></a>
+  <br>
+  <a href="https://ko-fi.com/leliel91">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg"
+      alt="ko-fi"></a>
 </p>
 
-<h3 align="center">Transponder italiani DVB-T2</h3>
-
----
+<h2>Transponder italiani DVB-T2</h2>
 
 ### Come effettuare la scansione dei transponder?
 #### Prerequisiti:
@@ -23,10 +25,7 @@
 -
 
 ---
-
-### Lista Canali HbbTV
-
-N° Canale - Nome Canale - Tipo Digitale Terrestre
+<h2>Lista Canali</h2>
 
 21. Rai 4 (DVB-T1)
 23. Ray 5 HD (DVB-T2)
