@@ -43,3 +43,5 @@
 ---
 
 ### Si ringrazia [![](https://img.shields.io/badge/stefantalpalaru-%23121011.svg?style=for-the-badge?style=flat-square&logo=github&logoColor=white)](https://github.com/stefantalpalaru) per il tool [![](https://img.shields.io/badge/w_scan2-%23121011.svg?style=for-the-badge?style=flat-square&logo=github&logoColor=white)](https://github.com/stefantalpalaru/w_scan2) utilizzato in questa repository.
+
+---
