@@ -16,7 +16,9 @@
       alt="ko-fi"></a>
 </p>
 
-<h2>Transponder italiani DVB-T2</h2>
+<h3 align="center">Transponder italiani DVB-T2</h3>
+
+---
 
 ### Come effettuare la scansione dei transponder?
 #### Prerequisiti:
